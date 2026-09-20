@@ -1,0 +1,342 @@
+{
+"person": {
+"name": "Sunder Kumar",
+"headline": "Computer Science Student | Java | Spring Boot | REST APIs | React | Next.js | SQL | Software Development | Open to Software Engineering & Java Developer Internships",
+"education": "BS Computer Science",
+"institution": "Sindh Madressatul Islam University (SMIU), Karachi",
+"cgpa": "3.51/4.00",
+"graduation": "February 2027",
+"email": "[skmalhi157@gmail.com](mailto:skmalhi157@gmail.com)",
+"linkedin": "https://www.linkedin.com/in/sunder-kumar-841068279",
+"github": "https://github.com/Sunder-Kumar",
+"portfolio": "https://www.sunderkumar.tech"
+},
+
+"skills": {
+"languages": [
+"Java",
+"JavaScript",
+"TypeScript",
+"SQL",
+"C#",
+"HTML",
+"CSS"
+],
+"java_backend": [
+"Java",
+"Spring Boot",
+"OOP",
+"REST APIs",
+"Spring Data JPA",
+"Layered Architecture",
+"Exception Handling"
+],
+"frontend": [
+"React",
+"Next.js",
+"JavaScript",
+"TypeScript",
+"HTML",
+"CSS",
+"Tailwind CSS"
+],
+"databases": [
+"MySQL",
+"MongoDB",
+"PostgreSQL",
+"Supabase"
+],
+"ai_and_apis": [
+"OpenRouter API",
+"AI API Integration",
+"AI Chatbots",
+"RAG Concepts",
+"API Integration",
+"Prompt Engineering"
+],
+"tools": [
+"Git",
+"GitHub",
+"VS Code",
+"Postman",
+"Vercel",
+"Supabase",
+"Framer Motion"
+]
+},
+
+"experience": [
+{
+"role": "Change Makers Ambassador Intern",
+"organization": "DataCrumbs",
+"period": "May 2026 – Present",
+"mode": "Remote",
+"verified_points": [
+"Ambassador activities",
+"Community engagement",
+"Communication and outreach",
+"Professional development"
+]
+},
+{
+"role": "Trainee Sales Executive",
+"organization": "Humantek",
+"period": "May 2025 – October 2025",
+"mode": "Karachi",
+"verified_points": [
+"B2B client communication",
+"Client coordination",
+"Order coordination",
+"Professional communication"
+]
+},
+{
+"role": "Affiliate Program Ambassador",
+"organization": "Pakdigit × SMIU Affiliate Program",
+"period": "2026",
+"mode": "Pakistan",
+"verified_points": [
+"Student ambassador activities",
+"Community and program promotion"
+]
+},
+{
+"role": "Campus Ambassador",
+"organization": "SuperComp'24",
+"period": "2024",
+"mode": "SMIU / Bahria University",
+"verified_points": [
+"Campus outreach",
+"Event promotion",
+"Student engagement"
+]
+}
+],
+
+"projects": [
+{
+"name": "Library Management System",
+"status": "public",
+"category": "Java / Software Development",
+"github": "https://github.com/Sunder-Kumar",
+"stack": [
+"Java",
+"OOP",
+"Collections",
+"JSON",
+"Layered Architecture"
+],
+"facts": [
+"Console-based library management system",
+"Book and user management",
+"14-day borrowing period",
+"Overdue tracking",
+"Search and reporting",
+"HashMap-based lookups",
+"Custom exception handling",
+"JSON-based persistence",
+"Student and Librarian inheritance"
+]
+},
+{
+"name": "Storyblok AI Chatbot",
+"status": "public/project",
+"category": "AI / Web Application",
+"stack": [
+"Next.js",
+"React",
+"Storyblok",
+"OpenRouter API",
+"Mistral 7B"
+],
+"facts": [
+"AI chatbot integrated with the Storyblok visual editor",
+"Next.js and React-based application",
+"AI API integration",
+"Visual editing workflow integration"
+]
+},
+{
+"name": "AI Secure Digital Wallet",
+"status": "project",
+"category": "AI / FinTech",
+"stack": [
+"React",
+"Node.js",
+"MySQL",
+"Python"
+],
+"facts": [
+"Digital wallet concept",
+"React-based interface",
+"Node.js backend",
+"MySQL database",
+"Python-based fraud detection component"
+],
+"notes": "Describe implementation details only when supported by the project's actual documentation or source code."
+},
+{
+"name": "ContriFlow",
+"status": "public",
+"category": "Developer Tool / Automation",
+"github": "https://github.com/Sunder-Kumar/contriflow",
+"stack": [
+"Node.js",
+"JavaScript",
+"GitHub API",
+"Octokit",
+"OpenRouter API"
+],
+"facts": [
+"Developer-focused contribution workflow tool",
+"GitHub API integration",
+"Octokit integration",
+"Optional AI integration through OpenRouter"
+],
+"notes": "Do not claim specific automation metrics or advanced capabilities unless verified from the repository."
+},
+{
+"name": "AI Creative Platform",
+"status": "project",
+"category": "AI / SaaS",
+"stack": [
+"Next.js",
+"Supabase"
+],
+"facts": [
+"AI-focused creative platform",
+"Supabase authentication/data services",
+"Trial/subscription concept"
+],
+"notes": "Treat as a project unless deployment and production usage are independently verified."
+},
+{
+"name": "ServiceConnect",
+"status": "project",
+"category": "Marketplace / Backend System",
+"stack": [
+"FastAPI",
+"PostgreSQL",
+"RabbitMQ",
+"Redis",
+"Elasticsearch",
+"Nginx"
+],
+"facts": [
+"Service marketplace concept",
+"Backend API architecture",
+"PostgreSQL database",
+"Asynchronous processing components",
+"Redis integration",
+"Search infrastructure"
+],
+"notes": "Use detailed architectural claims only when verified against the project's implementation."
+},
+{
+"name": "Qainchi",
+"status": "startup / MVP in development",
+"category": "Startup / Booking Platform",
+"facts": [
+"Real-time haircut and salon booking concept",
+"Focused initially on the Karachi market",
+"Customers can book available salon/barber slots",
+"Designed to reduce customer waiting",
+"Designed to help salons manage available slots"
+],
+"notes": "Qainchi is a startup project/MVP in development. Do not describe it as a large-scale launched platform or claim user/revenue/market metrics without evidence."
+},
+{
+"name": "Digital Shop Ledger / Bill Organizer",
+"status": "MVP in development",
+"category": "Android / Local Storage",
+"facts": [
+"Android-first shop bill organizer",
+"Local bill photo storage",
+"Automatic image compression",
+"Category-based organization",
+"Search and date filtering",
+"Designed around local device storage"
+],
+"notes": "Do not claim Google Play availability, active users, or cloud synchronization unless those milestones are actually completed."
+}
+],
+
+"achievements": [
+{
+"title": "Aspire Leaders Program 2026",
+"type": "Leadership / Professional Development",
+"facts": [
+"40-hour program",
+"Public speaking development",
+"Global connections",
+"Project proposal development"
+]
+},
+{
+"title": "DataCrumbs Change Makers Ambassador",
+"type": "Internship / Ambassador Selection",
+"year": 2026
+},
+{
+"title": "Pakdigit × SMIU Affiliate Program",
+"type": "Ambassador / Student Program",
+"year": 2026
+},
+{
+"title": "SuperComp'24 Campus Ambassador",
+"type": "Campus Ambassador",
+"year": 2024
+}
+],
+
+"certifications": [
+{
+"title": "Aspire Leaders Program 2026",
+"issuer": "Aspire Institute",
+"issued": "2026",
+"duration": "40 hours"
+},
+{
+"title": "DataCrumbs Change Makers Ambassador Intern",
+"issuer": "DataCrumbs",
+"issued": "2026"
+},
+{
+"title": "SuperComp'24 Campus Ambassador",
+"issuer": "SuperComp",
+"issued": "2024"
+}
+],
+
+"events_and_activities": [
+{
+"name": "Techno Fest Pakistan",
+"date": "October 12–13, 2024",
+"type": "Volunteer"
+},
+{
+"name": "Soul Fest",
+"date": "December 13–15, 2024",
+"type": "Volunteer"
+},
+{
+"name": "GDG Kolachi Core Team",
+"type": "Community / Technology Activity",
+"notes": "Include only if the specific role/status is verified for the relevant period."
+}
+],
+
+"grounding": {
+"allowed_scope": "Questions about Sunder Kumar, his verified education, skills, experience, projects, portfolio, certifications, and publicly documented work.",
+"unknown_response": "I don't have verified information about that.",
+"unrelated_response": "I'm Sunder Kumar's portfolio assistant, so I only answer questions about Sunder and his work.",
+"future_rule": "Never state an unverified future event, planned feature, intended launch, or career goal as a completed fact. Clearly distinguish plans, goals, and projects in development from completed work.",
+"private_rule": "Do not expose private repository URLs or private project details as public resources.",
+"public_repository_rule": "Only provide public GitHub repository links when the repository is confirmed to be publicly accessible.",
+"project_depth_rule": "Do not fabricate architecture, performance metrics, user counts, deployment status, technologies, or features that are not supported by the project's documentation or source code.",
+"startup_rule": "Qainchi and other startup concepts should be described according to their actual development stage. Do not claim market traction, revenue, user adoption, or business results without evidence.",
+"student_rule": "Describe Sunder as a Computer Science student unless and until the degree has been completed.",
+"career_rule": "Sunder's primary software-development direction is Java and Spring Boot, while his broader technical experience also includes React, Next.js, Node.js, databases, APIs, and AI integrations.",
+"concise": true
+}
+}
