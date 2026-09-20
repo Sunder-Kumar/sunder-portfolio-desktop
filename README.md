@@ -8,7 +8,7 @@
 
 Explore the deployed portfolio:
 
-https\://raksha-portfolio-xi.vercel.app/
+https\://sunder-portfolio-xi.vercel.app/
 
 The portfolio goes beyond a traditional scrolling website with an operating-system-inspired interface, application-style navigation, interactive windows, portfolio search, and an AI-powered **\*\*Ask Sunder\*\*** assistant.
 
@@ -78,7 +78,7 @@ Ask Sunder UI
 
    ↓
 
-/api/ask-raksha
+/api/ask-sunder
 
    ↓
 
@@ -268,7 +268,7 @@ The mobile experience provides a simplified responsive interface while maintaini
 
 **### 👩‍💻 About Sunder**
 
-![About Sunder]\(public/assets/screenshots/about\_raksha.png)
+![About Sunder]\(public/assets/screenshots/about\sunder.png)
 
 **---**
 
@@ -280,7 +280,7 @@ The mobile experience provides a simplified responsive interface while maintaini
 
 **### 🤖 Ask Sunder AI Assistant**
 
-![Ask Sunder AI Assistant]\(public/assets/screenshots/ask\_raksha.png)
+![Ask Sunder AI Assistant]\(public/assets/screenshots/ask\sunder.png)
 
 **---**
 
@@ -336,7 +336,7 @@ Clone the repository:
 
 git clone https\://github.com/Sunder-Kumar/sunder-portfolio.git
 
-cd raksha-portfolio
+cd sunder-portfolio
 
 \`\`\`
 
@@ -398,7 +398,7 @@ The portfolio is deployed on **\*\*Vercel\*\***.
 
 **### Live Portfolio**
 
-https\://raksha-portfolio-xi.vercel.app/
+https\://sunder-portfolio-xi.vercel.app/
 
 For the deployed **\*\*Ask Sunder\*\*** assistant to work, the production environment must have:
 
@@ -502,3 +502,7 @@ This project is licensed under the [MIT License]\(LICENSE).
   Built and designed by \<strong>Sunder\</strong> with Next.js, React, TypeScript, Tailwind CSS, and Gemini.
 
 \</p>
+
+
+
+raksha
