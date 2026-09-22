@@ -15,6 +15,9 @@ export const metadata: Metadata = {
     "TypeScript",
     "Python",
   ],
+  verification: {
+    google: "MXtNkiXCN3Nsmw-FQvYl11MacmjOmmAhSR_V3AZve1c",
+  },
   openGraph: {
     title: "Sunder Kumar — Software Engineer Portfolio",
     description:
